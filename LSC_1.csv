@@ -1,0 +1,98 @@
+##Tool,Version,Release_Path,Remarks,Owner
+0in,10.7d_2,/proj/verif_release_ro,Vendor VMT Tools:,Apoorv Aggarwal
+alice,116,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+amd_assert_lib,9,/proj/verif_release_ro,Stable Tools:,Xiaolong Zhang
+amd_axi_uvc,34.2.4,/proj/verif_release_ro,Tools which may change monthly:,Permykov Valery
+amd_sdp_uvc,42.0.10,/proj/verif_release_ro,Tools which may change monthly:,Prasoona Thippana
+amdmsg,48.3.2,/proj/verif_release_ro,Tools which may change monthly:,Rajiv Shankar
+autometa,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:,Vijayalaxmi Verma
+autometa_checklist_lib,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:,Vijayalaxmi Verma
+autometa_rule_lib,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:,Vijayalaxmi Verma
+autosmoke,115.0.2,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+basepkg_pkg,25.1.2,/proj/verif_release_ro,Stable Tools:,Joe Zhang
+build_audit,1.4.4,/proj/verif_release_ro,Stable Tools:,Harshit Gupta
+buildflow_pkg,29.3.1,/proj/verif_release_ro,Tools which may change monthly:,Joe Zhang 
+cbwa,240,/proj/verif_release_ro,Tools which may change once in 3-6 months:Specified as &lt;cbwa_toolset&gt; under 'env.cfg'.,Benny Goodman
+cbwa_bootcore,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Do NOT load.'cbwa_bootcore' is free-wheeling.Specified revisions may be archived.,Benny Goodman
+cbwa_initscript,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Do NOT load.'cbwa_initscript' is free-wheeling.Specified revisions may be archived.,Benny Goodman
+CDC_Verif,97.4,/proj/verif_release_ro,Tools which may change monthly:,Apoorv Agarwal
+compression_utils,28.0.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+connectivity_pkg,48.3.6,/proj/verif_release_ro,Tools which may change monthly:,Liu Jack1
+crdb20_db_interface,36.0.2,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+crdb_api,134.10,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+crdb_db_interface,107,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+dispatch,277.7.1,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+distmake-4.1,20,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+dj,203.14,/proj/verif_release_ro,Tools which may change monthly:,Roman Harold
+docgenflow_pkg,1.8.18,/proj/verif_release_ro,Tools which may change monthly:, Rakesh Gulati
+drop2cad,116.2,/proj/verif_release_ro,Tools which may change monthly:,Vidyasagar
+error_reporting,34,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+flow_managers,106,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+fm_verif_plugins,373.2.5,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+formality,2019.03-SP5,/proj/verif_release_ro,Vendor CAD/DFX Tools:,Yilan Leyla
+get_switches,1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+hdk-6,1.1,/proj/verif_release_ro,Vendor VMT Tools:,Warren Hyde
+intgfx2trs,13.3,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Praveen G
+ip_packager,2.1,/proj/verif_release_ro,Tools which may change monthly:,Prakash Mundra
+ip_registry,254,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+jira_access,57.0.1,/proj/verif_release_ro,Stable Tools:Not VMT's package but it is required by SigSync.,  
+job_specification,205.5,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+lec,19.10-s300,/proj/verif_release_ro,Vendor CAD/DFX Tools:,Yilan Leyla
+lint_verif,47,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Parag Manderkar
+local_symlink,3,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+lockmake,3,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+monitor_regression,32,/proj/verif_release_ro,Stable Tools:,Cores
+nfs_refresh,2,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+p4_mkwa,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Do NOT load.'p4w_mkwa' is free-wheeling.Specified revisions may be archived.,Benny Goodman
+p4w,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Do NOT load.'p4w' is free-wheeling.Specified revisions may be archived.,Benny Goodman
+perlog,40,/proj/verif_release_ro,Stable Tools:,Nitin Rahul
+pipebuf,1,/proj/verif_release_ro,Stable Tools:,Nitin Rahul
+powerflow_pkg,39.3.2,/proj/verif_release_ro,Tools which may change monthly:There will be an increment update on or before 1/31/2020.,"Huang Angela,Nitin Rahul"
+project_config,29.0.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+register_pkg,61,/proj/verif_release_ro,Tools which may change monthly:,Valery Permyakov
+regr_cluster_interface,35.0.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+regr_config,113.0.5,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+regr_core_tools,226.6.4,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+regr_db_interface,103.2.7,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+regr_load_balancer,41.1.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+regr_stack,74.2,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+regr_support,29,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+regr_system_env_setup,10,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+release_tools,56,/proj/verif_release_ro,Stable Tools:Obsolete. Use 'p4_release/current'. See\:  http\://twiki.amd.com/twiki/bin/viewauth/Verif/P4Release.,Benny Goodman
+releaseflow_pkg,20,/proj/verif_release_ro,Tools which may change monthly:,Joe Zhang
+results_analysis,153.5.2,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+rgb,87.3,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Manoj Nayak
+rgb_build,230.4,/proj/verif_release_ro,Tools which may change monthly:,Manoj Nayak
+RHEL,7,/proj/verif_release_ro,Vendor VMT Tools:Redhat Linux OS Major Version,Warren Hyde
+rpl,111,/proj/verif_release_ro,Stable Tools:,Nitin Rahul
+rtl_tools,59,/proj/verif_release_ro,Stable Tools:,Nitin Rahul
+rtp20_migration_toolset,19,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+rubix,71.13,/proj/verif_release_ro,Tools which may change monthly:,David Courtright
+sauber_2_1,47,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Praveen Dhanuka
+SigSync,325.1.3,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Praveen G
+simperf,287,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Danny Tan
+siteconfig,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:,Warren Hyde
+smsgen,2.7.27,/proj/verif_release_ro,Tools which may change monthly:,Lisa Grenier
+sql_utils,58.0.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+std_ovl_v28,4.2,/proj/verif_release_ro,Stable Tools:,Xiaolong Zhang
+svn_ssh,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:,Warren Hyde
+swan,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Leda support is fully back-compatible.,"Benny Goodman,"
+tbhydra_pkg,51,/proj/verif_release_ro,Tools which may change monthly:,Edmund Fong
+test_list_management,54,/proj/verif_release_ro,Stable Tools:,Cores
+testflow_pkg,57.2.4,/proj/verif_release_ro,Tools which may change monthly:http\://twiki.amd.com/twiki/bin/view/VerifCOE/FrontEndDesignMethHomeTDL.,Xiaolong Zhang
+trs_auto_rerun,37,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+ucapi_wrapper64,61,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Rajiv Shankar
+ustat_send,45.2,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+utils,73,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Warren Hyde
+uvmkit-1.2,5.0.4,/proj/verif_release_ro,Tools which may change once in 3-6 months:,Nitin Rahul
+vc_static,2018.09-SP2-5,/proj/verif_release_ro,Vendor CAD/DFX Tools:,Parag Manderkar
+vcs,2018.09-SP2-9,/proj/verif_release_ro,Vendor VMT Tools:,Arun Kumar
+vcs_auto_profile_tools,13,/proj/verif_release_ro,Stable Tools:,Nitin Rahul
+verdi,2018.09-SP2-9,/proj/verif_release_ro,Vendor VMT Tools:,Arun Kumar
+veri_parse,5.1.1,/proj/verif_release_ro,Tools which may change monthly:,Vidyasagar
+verif_modules,53,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+vpp_infra,5.0.2,/proj/verif_release_ro,Stable Tools:,Warren Hyde
+vrq,1.0.133,/proj/verif_release_ro,Vendor VMT Tools:vcs_xprop is under qualification; design to migrate to vcs_xprop once qualifcation completes,Navya Yetukuri
+wa_boot,current,/proj/verif_release_ro,Top of the tree - Infra/Metrics Tools:Do NOT load. 'wa_boot' is free-wheeling. Specified revisions may be archived.,Benny Goodman
+wa_boot_versioned,53,/proj/verif_release_ro,Tools which may change once in 3-6 months:Must be the content of '_env/local/bootenv.version'.,Benny Goodman
+xml_utils,48.1,/proj/verif_release_ro,Stable Tools:,Warren Hyde
